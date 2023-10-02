@@ -3,7 +3,7 @@ Brief: Accessibility improvements for the Horiseon homepage.
 
 This projects aim is to refactor the Horiseon homepage to make improvements to accessibility and code.
 
-## agile statement
+## Agile statement
 This project is complete when
 1. Semantic HTML elements can be found throughout the source code
 2. HTML elements follow a logical structure independent of styling and positioning
@@ -11,7 +11,7 @@ This project is complete when
 4. Heading attributes fall in sequential order
 5. Title elements contain a concise, descriptive title
 
-## html script
+## HTML script
 Where appropriate, the project replaces use of non-semantic elements with semantic elements such as 
     <section>
     <footer>
@@ -29,7 +29,7 @@ The project also edits the structure to ensure that semantic elements such as <h
 
 Comments are employed to help others understand code to aid future development.
 
-## css script
+## CSS script
 The project condenses css code in line with DRY principles.
 
 The project places css code in a logical sequence to increase readability for future edits and code review.
@@ -40,7 +40,7 @@ Comments are employed to help others understand code to aid future development.
 
 Selectors appear in code in order of general to specific- placing the most general selectors towards the top of the style sheet and the most specific selectors towards lower down the style sheet.
 
-## link to deployed application ##
+## Link to deployed application ##
 
 The following is a link to the outcome of the project hosted on Gitpages: 
     
@@ -51,3 +51,17 @@ The below images show the Horiseon homepage deployed at completion of this proje
 
 ![Screenshot 1 of 2 showing deployed webpage](<assets/images/deployment screenshot1.png>)
 ![Screenshot 2 of 2 showing deployed webpage](<assets/images/deployment screenshot 2.png>)
+
+## Future improvements
+
+The html and css in the project have been optimised for accessibility purposes through the following steps:
+
+[1] Replacement of non-semantic elements with semantic elements
+[2] Restructuring of HTML code to conform to logical order relating to browser display and relative importance of content.
+[3] Addition of alt elements to images and icons
+[4] Amendments to header elements to better link header choice with the importance of the information displayed
+[5] Use of concise title tag
+
+Further work may be undertaken to expand accessibility for alternative devices.
+
+Incorporation of audio elements such as sound files or videos would improve the general accessibility of the homepage. Such additions however lie beyond the optimisation of existing content- which was the concern of this project.
