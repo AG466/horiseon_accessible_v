@@ -11,7 +11,7 @@ This project is complete when
 4. Heading attributes fall in sequential order
 5. Title elements contain a concise, descriptive title
 
-## html ##
+## html script##
 Where appropriate, the project replaces use of non-semantic elements with semantic elements such as 
     <section>
     <footer>
@@ -29,7 +29,7 @@ The project also edits the structure to ensure that semantic elements such as <h
 
 Comments are employed to help others understand code to aid future development.
 
-## css ##
+## css script##
 The project condenses css code in line with DRY principles.
 
 The project places css code in a logical sequence to increase readability for future edits and code review.
@@ -40,6 +40,10 @@ Comments are employed to help others understand code to aid future development.
 
 Selectors appear in code in order of general to specific- placing the most general selectors towards the top of the style sheet and the most specific selectors towards lower down the style sheet.
 
+## link to deployed application ##
 
+The following is a link to the outcome of the project hosted on Gitpages: 
+    
+<a href="https://ag466.github.io/horiseon_accessible_v/#online-reputation-management" target="_blank">Horiseon Homepage Accessible Version</a>
 
 
